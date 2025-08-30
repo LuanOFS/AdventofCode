@@ -60,3 +60,4 @@ printf("\nSoma total das diferenças absolutas: %d\n", total_diff);
 
     return 0;
 }
+
